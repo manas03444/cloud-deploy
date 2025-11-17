@@ -62,4 +62,5 @@ jobs:
           app-name: 'JIT'
           slot-name: 'Production'
           package: .
+
           
